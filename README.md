@@ -47,9 +47,7 @@ The dataset was cleaned, transformed, and enhanced using Power Query for analyti
 ├── Superstore              → Raw dataset
 ├── Cleaned Data            → Cleaned & transformed data (Power Query output)
 ├── Pivot Table             → Business logic & aggregations
-├── Dashboard               → Final interactive dashboard
-├── Screenshots             → Dashboard & pivot visuals
-└── README.md
+└── Dashboard               → Final interactive dashboard
 ```
 
 ---
